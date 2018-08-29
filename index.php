@@ -21,7 +21,7 @@
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  <h2>Token Site By MIAN KAMRAN </h2>
+  <h2>Token Site By MUGHAL ZADA </h2>
   <div class="panel-group">
 <div class="panel panel-primary">
       <div class="panel-heading">Get Token No Checkpoint 100%</div>
